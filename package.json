@@ -1,6 +1,6 @@
 {
   "name": "@maidhub/lint",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "homepage": "https://github.com/maidhub/maid-lint",
   "bugs": {
     "url": "https://github.com/maidhub/maid-lint/issues/new"

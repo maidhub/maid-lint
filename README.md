@@ -139,9 +139,3 @@ $ cd maidhub/lint
 $ bun install
 $ bun start
 ```
-
-<div align="right">
-
-[!\[\]\[back-to-top\]](#readme-top)
-
-</div>
