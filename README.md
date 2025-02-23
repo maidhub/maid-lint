@@ -4,7 +4,7 @@
 
 ESlint config, Prettier config, Remark config for MaidHub
 
-[Changelog](./CHANGELOG.md) · \[Report Bug]\[issues-link] · \[Request Feature]\[issues-link]
+[Changelog](./CHANGELOG.md)
 
 </div>
 
