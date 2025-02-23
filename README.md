@@ -1,25 +1,10 @@
 <a name="readme-top"></a><div align="center">
 
-
 <h1>Maid Lint</h1>
 
 ESlint config, Prettier config, Remark config for MaidHub
 
-[Changelog](./CHANGELOG.md) · [Report Bug][issues-link] · [Request Feature][issues-link]
-
-<!-- SHIELD GROUP -->
-
-[![][npm-release-shield]][npm-release-link]
-[![][discord-shield]][discord-link]
-[![][npm-downloads-shield]][npm-downloads-link]
-[![][github-releasedate-shield]][github-releasedate-link]
-[![][github-action-test-shield]][github-action-test-link]
-[![][github-action-release-shield]][github-action-release-link]<br/>
-[![][github-contributors-shield]][github-contributors-link]
-[![][github-forks-shield]][github-forks-link]
-[![][github-stars-shield]][github-stars-link]
-[![][github-issues-shield]][github-issues-link]
-[![][github-license-shield]][github-license-link]
+[Changelog](./CHANGELOG.md) · \[Report Bug]\[issues-link] · \[Request Feature]\[issues-link]
 
 </div>
 
@@ -50,8 +35,6 @@ ESlint config, Prettier config, Remark config for MaidHub
 
 To install Maid Lint, run the following command:
 
-[![][bun-shield]][bun-link]
-
 ```bash
 $ bun add @maidhub/lint -D
 ```
@@ -65,8 +48,6 @@ $ curl -O https://raw.githubusercontent.com/maidhub/maid-lint/master/.prettierig
 ```
 
 <div align="right">
-
-[![][back-to-top]](#readme-top)
 
 </div>
 
@@ -144,15 +125,11 @@ module.exports = require('@maidhub/lint').semanticRelease;
 
 <div align="right">
 
-[![][back-to-top]](#readme-top)
-
 </div>
 
 ## ⌨️ Local Development
 
 You can use Github Codespaces for online development:
-
-[![][codespaces-shield]][codespaces-link]
 
 Or clone it for local development:
 
@@ -165,8 +142,6 @@ $ bun start
 
 <div align="right">
 
-[![][back-to-top]](#readme-top)
+[!\[\]\[back-to-top\]](#readme-top)
 
 </div>
-
-

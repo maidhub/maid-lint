@@ -1,4 +1,5 @@
 <a name="readme-top"></a>
+
 # Changelog
 
 ## Version 1.0.0
@@ -16,7 +17,7 @@
 
 #### What's improved
 
-- **misc**: Add lints config ([3e56232](https://github.com/lobehub/lobe-lint/commit/3e56232))
+- **misc**: Add lints config ([1792dde](https://github.com/lobehub/lobe-lint/commit/1792dde))
 
 </details>
 

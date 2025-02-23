@@ -10,7 +10,7 @@
     "url": "https://github.com/maidhub/maid-lint.git"
   },
   "license": "MIT",
-  "author": "canisminor1990 <i@canisminor.cc>",
+  "author": "maidhub",
   "sideEffects": false,
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
